@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dtdai
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @dtdai.
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning to be a developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
